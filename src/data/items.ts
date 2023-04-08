@@ -1,4 +1,4 @@
-import { Item } from '../types/Item'
+import { Item } from "../types/Item";
 
 export const items: Item[] = [
   {
@@ -22,7 +22,7 @@ export const items: Item[] = [
   {
     date: new Date(2023, 3, 1),
     category: "salary",
-    title: "Salário C6",
+    title: "Salário",
     value: 4500,
   },
 ];
